@@ -2,7 +2,7 @@
     "id": "microbit",
     "nickname": "microbit",
     "name": "makecode.microbit.org",
-    "title": "Microsoft MakeCode for micro:bit",
+    "title": "Tencent wecode for micro:bit",
     "description": "A Blocks / JavaScript code editor for the micro:bit powered by Microsoft MakeCode.",
     "corepkg": "core",
     "bundleddirs": [
@@ -278,7 +278,7 @@
         "cardLogo": "./static/icons/apple-touch-icon.png",
         "appLogo": "./static/icons/apple-touch-icon.png",
         "organization": "Microsoft MakeCode",
-        "organizationUrl": "https://makecode.com/",
+        "organizationUrl": "https://wecode.qq.com/",
         "organizationLogo": "./static/Microsoft-logo_rgb_c-gray-square.png",
         "organizationWideLogo": "./static/Microsoft-logo_rgb_c-white.png",
         "homeScreenHero": "./static/hero.png",
